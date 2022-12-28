@@ -1,0 +1,1 @@
+# Mapping-Dynamic-Human-Sentiments-of-Heat-Exposure
