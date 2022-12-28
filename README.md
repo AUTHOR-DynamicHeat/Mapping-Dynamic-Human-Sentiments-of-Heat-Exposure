@@ -1,26 +1,23 @@
 # Mapping Dynamic Human Sentiments of Heat Exposure with Location-Based Social Media Data
 
-This github repo is attached to the manuscript Mapping Dynamic Human Sentiments of Heat Exposure with Location-Based Social Media Data. The code can be directly run on the platform CyberGISX at https://cybergisxhub.cigi.illinois.edu/ with confidential. This study aims to explore the possibility to used location-based social media data to map people’s exposure to heat by analyzing nearreal-time social media Twitter.
+This github repo is attached to the manuscript Mapping Dynamic Human Sentiments of Heat Exposure with Location-Based Social Media Data. This study aims to explore the possibility to used location-based social media data to map people’s exposure to heat by analyzing nearreal-time social media Twitter.
 
-How to Use this code on CyberGISX?
 
-1. Clone this repo to CyberGISX
+1. Clone this repo to your local desktop
+
+2. Install required Python library
 
 2. Data Retrieval
 
   a. If you want to retrieve the full dataset:
 
-    i. Generate a ssh key by: ssh-keygen
-
-    ii. Retrieve your ssh key and send it to corresponding author
-
-    iii. Authorized used will be given the permission to retrive Twitter data on Keeling
+    i. Contact corresponding author
 
   b. You can also use the sample data: https://doi.org/10.6084/m9.figshare.21780065
     
     i. Download the dataset and unzip it
     
-    ii. Rename the data_sample to data and upload the dataset to CyberGISX
+    ii. Rename the data_sample to data
     
     iii. Change corresponding code in the notebook for path and don't run data collection part of the code
 
