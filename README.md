@@ -21,7 +21,7 @@ This github repo is attached to the manuscript Mapping Dynamic Human Sentiments 
     
     iii. Change corresponding code in the notebook for path and don't run data collection part of the code
 
-3. Use the notebook provided for near real-time analysis of your own/reproduce the result in the manuscript
+4. Use the notebook provided for near real-time analysis of your own/reproduce the result in the manuscript
 
 Notebook description:
 
